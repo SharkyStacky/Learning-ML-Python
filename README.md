@@ -11,5 +11,6 @@ Here we will be able to trace down all the learnings using mainly Jupyter Notebo
 
 I will use data from my QSAR project but I will have to remake the whole "generate descriptors from SMILES" maybe using mordred and open babel or using other tools such as KNIME and RDkit.
 
+Maybe staying in the field of descriptors is still a bit hard with a lot of steps. I was able to understand the first steps of Neural Network but the new one is still in developpment. It will be hard to play around with it, without the right focus it will be harder. But for now I will try with other datasets and try other machine learning techniques such as KNN (K-Nearest-Neighbourh).
 ## ✍️ Authors 
 Charles VU - [SharkyStacky](https://github.com/SharkyStacky)
